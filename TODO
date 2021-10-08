@@ -1,9 +1,5 @@
 Video tutorial: https://www.youtube.com/watch?v=3dIVesHEAzc
 Written tutorial: https://landchad.net/server
 
-1. Get a domain name
-    opmorgan.com
-2. Get a server
-3. Set up DNS settings to connect your server and domain name
-4. Set up your web server
-5. Get a secure HTTPS connection with Certbot
+1. Get a secure HTTPS connection with Certbot
+2. Set up CI
