@@ -1,0 +1,89 @@
+/** Montserrat Regular **/
+@font-face {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-style: normal;
+    src: url("/fonts/Montserrat/Montserrat-Regular.woff2") format("woff2");
+}
+
+/** Montserrat SemiBold **/
+@font-face {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-style: normal;
+    src: url("/fonts/Montserrat-SemiBold.woff2") format("woff2"),
+         url("/fonts/Montserrat-SemiBold.woff") format("woff");
+}
+
+:root {
+  --background: #F3EFEE;
+  --line-gray: #111111;
+  --text-red: #A11212;
+  --icon-red: #BC4A4A;
+
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  background-color: var(--background);
+  margin: 0;
+  padding: 0;
+}
+
+/* Text links */
+a {
+  text-decoration: none;
+}
+
+a p {
+  color: var(--text-red);
+}
+
+p {
+  line-height: 1.3rem;
+  margin-top: 0rem;
+  margin-bottom: .5rem;
+}
+
+.home-content {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.portrait {
+  margin 0;
+  padding 0;
+  margin-bottom: 34px;
+}
+
+.portrait-image img {
+  display: block;
+  border: 1px solid var(--line-gray);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6px;
+}
+
+.portrait-email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 8px;
+  /* border: 1px solid black; */
+}
+
+.portrait-email-text p {
+  font-size: 14px;
+  color: var(--text-red);
+  margin: 0;
+  padding: 0;
+}
+
+.portrait-email-icon img {
+  width: 30px;
+  margin: 0;
+  padding: 0;
+  padding-top: 4px;
+}

@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  {{ partial "meta.html" . }}
+
+  {{ partial "nav.html" }}
+
+  <!-- <main class="content" role="main"> -->
+  <div class="home-content">
+
+    <div class="portrait">
+      <div class="portrait-image">
+        <img class="portrait-image" src="/images/portrait.png"/>
+      </div>
+      <div class="flex-container portrait-email">
+        <div class="portrait-email-text">
+          <a href="mailto:opm6@cornell.edu">
+            <p>opm6@cornell.edu </p>
+          </a>
+        </div>
+        <div class="portrait-email-icon">
+          <a class="portrait-email-icon" href="mailto:opm6@cornell.edu">
+            <img src="/images/envelope-solid-red1.svg">
+          </a>
+        </div>
+      </div>
+      <div class="portrait-button-links">
+        <a href="github.com/opmorgan"></a>
+        <a href="https://scholar.google.com/citations?user=srf5UFkAAAAJ&hl=en&oi=ao"></a>
+      </div>
+    </div>
+
+    <div class="home-text-content">
+      {{ .Content }}
+    </div>
+    <!-- </main> -->
+  </div>
+
+  {{ partial "footer.html" . }}
+
+</html>

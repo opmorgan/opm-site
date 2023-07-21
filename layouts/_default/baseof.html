@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+
+  {{ partial "meta.html" . }}
+
+  {{ if isset .Params "title" }}
+  <title>{{ .Params.Title }}</title>
+  {{ else }}
+  <title>{{ .Site.Title }}</title>
+  {{ end }}
+
+  {{ partial "nav.html" }}
+
+  <body>
+    {{ block "main" . }}
+    {{ end }}
+  </body>
+
+  {{ partial "footer.html" . }}
+
+</html>
