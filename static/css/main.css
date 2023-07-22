@@ -17,16 +17,18 @@
 
 :root {
   --background: #F3EFEE;
+  /* --background: #111111; */
   --line-gray: #111111;
   --text-red: #A11212;
   --icon-red: #BC4A4A;
+  --v-padding: 30px;
 
 }
 
 body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   background-color: var(--background);
   margin: 0;
   padding: 0;
@@ -42,20 +44,21 @@ a p {
 }
 
 p {
-  line-height: 1.3rem;
+  line-height: 1.5rem;
   margin-top: 0rem;
   margin-bottom: .5rem;
 }
 
 .home-content {
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: calc(var(--v-padding));
 }
 
 .portrait {
   margin 0;
   padding 0;
-  margin-bottom: 34px;
+  margin-bottom: var(--v-padding);
 }
 
 .portrait-image img {
@@ -63,7 +66,7 @@ p {
   border: 1px solid var(--line-gray);
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
 .portrait-email {
@@ -72,6 +75,7 @@ p {
   align-items: center;
   column-gap: 8px;
   /* border: 1px solid black; */
+  margin-bottom: 8px;
 }
 
 .portrait-email-text p {
@@ -87,3 +91,36 @@ p {
   padding: 0;
   padding-top: 4px;
 }
+
+.portrait-button-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 16px;
+}
+
+.portrait-button-links img {
+  height: 30px;
+}
+
+.portrait-button-links .gs-button-link img {
+  height: 22px;
+}
+
+.portrait-button-links .gh-button-link img {
+  height: 22px;
+}
+
+footer {
+  border-top: 1px solid var(--line-gray);
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.footer-text {
+}
+
+

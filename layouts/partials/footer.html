@@ -2,6 +2,10 @@
  <!-- No footer here! -->
 {{ else }}
  <footer>
-   Website made by {{ .Site.Params.name }} in {{ now.Year }}
+   <div class="footer-rect">
+     <div class="footer-text">
+       <p>Last updated {{ .Lastmod.Format "January 2, 2006" }}</p>
+     </div>
+   </div>
  </footer>
 {{ end }}

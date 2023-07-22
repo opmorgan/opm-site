@@ -1,6 +1,10 @@
 baseURL = 'http://opmorgan.com/'
 languageCode = 'en-us'
 title = 'Owen Morgan'
+enableGitInfo = true
+
+[frontmatter]
+lastmod = [':git', ':fileModTime']
 
 [params]
 name = "Owen Morgan"
