@@ -6,23 +6,33 @@
     src: url("/fonts/Montserrat/Montserrat-Regular.woff2") format("woff2");
 }
 
+
+/** Montserrat Medium **/
+@font-face {
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-style: normal;
+    src: url("/fonts/Montserrat/Montserrat-Medium.woff2") format("woff2"),
+         url("/fonts/Montserrat/Montserrat-Medium.woff") format("woff");
+}
+
 /** Montserrat SemiBold **/
 @font-face {
     font-family: "Montserrat";
     font-weight: 600;
     font-style: normal;
-    src: url("/fonts/Montserrat-SemiBold.woff2") format("woff2"),
-         url("/fonts/Montserrat-SemiBold.woff") format("woff");
+    src: url("/fonts/Montserrat/Montserrat-SemiBold.woff2") format("woff2"),
+         url("/fonts/Montserrat/Montserrat-SemiBold.woff") format("woff");
 }
 
 :root {
   --background: #F3EFEE;
-  /* --background: #111111; */
-  --line-gray: #111111;
+  --line-gray: #999999;
+  --text-black: #111111;
   --text-red: #A11212;
   --icon-red: #BC4A4A;
-  --v-padding: 30px;
-
+  --v-padding: 34px;
+  --margin-gutter: 40px;
 }
 
 body {
@@ -43,10 +53,39 @@ a p {
   color: var(--text-red);
 }
 
-p {
-  line-height: 1.5rem;
-  margin-top: 0rem;
-  margin-bottom: .5rem;
+.nav-container {
+  height: 56px;
+  border-bottom: 1px solid var(--line-gray);
+  margin-bottom: var(--v-padding);
+}
+
+.nav-content {
+  margin-left: var(--margin-gutter);
+  margin-right: var(--margin-gutter);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-content__left p {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.nav-content__right {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.nav-content__right p {
+  font-size: 1rem;
+}
+
+.nav-content a p {
+  color: var(--text-black);
 }
 
 .home-content {
@@ -55,10 +94,16 @@ p {
   margin-bottom: calc(var(--v-padding));
 }
 
+.home-content p {
+  line-height: 1.5rem;
+  margin-top: 0rem;
+  margin-bottom: .5rem;
+}
+
 .portrait {
   margin 0;
   padding 0;
-  margin-bottom: var(--v-padding);
+  margin-bottom: calc(var(--v-padding) - 12px);
 }
 
 .portrait-image img {
@@ -86,7 +131,7 @@ p {
 }
 
 .portrait-email-icon img {
-  width: 30px;
+  width: 22px;
   margin: 0;
   padding: 0;
   padding-top: 4px;
@@ -111,7 +156,7 @@ p {
   height: 22px;
 }
 
-footer {
+.footer-container {
   border-top: 1px solid var(--line-gray);
   height: 56px;
   display: flex;
@@ -121,6 +166,9 @@ footer {
 }
 
 .footer-text {
+  margin 0;
+  padding 0;
+  line-height: 1rem;
 }
 
 
