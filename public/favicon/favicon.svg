@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.739478"
+     inkscape:cx="230.33585"
+     inkscape:cy="438.95224"
+     inkscape:window-width="1362"
+     inkscape:window-height="734"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#f3efee;fill-opacity:1;stroke-width:0.26458333;stroke-dasharray:none;stroke:#111111;stroke-opacity:1"
+       id="path1480"
+       cx="67.335548"
+       cy="113.60513"
+       r="10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro';text-align:center;text-anchor:middle;opacity:1;fill:#111111;fill-opacity:1;stroke-width:0.603229"
+       x="76.436218"
+       y="102.63636"
+       id="text236"
+       transform="scale(0.87969271,1.1367606)"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro';fill:#111111;fill-opacity:1;stroke-width:0.603229"
+         x="76.436218"
+         y="102.63636">om</tspan></text>
+  </g>
+</svg>
