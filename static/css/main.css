@@ -31,6 +31,7 @@
   --background-accent: #eeeae9;
   --line-gray: #999999;
   --text-black: #111111;
+  --text-hover-gray: #333333;
   --text-red: #A11212;
   --icon-red: #BC4A4A;
   --hover-red: rgb(179, 0, 0, .15);
@@ -55,8 +56,12 @@ a {
   text-decoration: none;
 }
 
-a p {
+a {
   color: var(--text-red);
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .content-grid {
@@ -126,8 +131,8 @@ a p {
 }
 
 .navbar a:hover {
-  color: var(--text-black);
-  text-decoration: none;
+  color: var(--text-hover-gray);
+  /* text-decoration: underline; */
 }
 
 
@@ -235,7 +240,7 @@ a p {
   }
 
   .menu__item:hover {
-    background: var(--hover-red);
+    /* background: var(--hover-red); */
   }
 }
 
@@ -268,7 +273,7 @@ a p {
   }
 
   .menu__item:hover {
-    background: var(--hover-red);
+    /* background: var(--hover-red); */
   }
 
 }
@@ -376,7 +381,8 @@ a p {
   height: 22px;
 }
 
-.content-grid__main__text {
+.content-grid__main__text a {
+  color: var(--text-red)
 }
 
 /* CONTENT-GRID__FOOTER */
