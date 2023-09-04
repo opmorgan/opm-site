@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Papers
 ---
 
 ## Selected Publications

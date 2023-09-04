@@ -1,22 +1,23 @@
-<nav>
-  <div class="nav-container">
-    <div class="nav-content">
-      <div class="nav-content__left">
-        <a href="/">
-          <p>Owen Morgan</p>
-        </a>
+<section class="navbar">
+  <div class="navbutton__home">
+    <a class="menu__item navbutton__home" href="/">Owen Morgan</a>
+  </div>
+
+  <input id="menu-toggle" type="checkbox" />
+  <label class='menu-button-container' for="menu-toggle">
+    <div class='menu-button'></div>
+  </label>
+
+  <ul class="menu">
+    <li>
+      <div>
+        <a class="menu__item" href="/pubs">Papers</a>
       </div>
-      <div class="nav-content__right">
-        <div>
-          <a href="/pubs">
-            <p>Publications</p>
-          </a>
-        </div>
-        <div>
-          <a href="https://opmorgan.github.io/cv/cv.pdf">
-            <p>CV</p>
-          </a>
-        </div>
+    </li>
+    <li>
+      <div>
+        <a class="menu__item" href='https://opmorgan.github.io/cv/cv.pdf'>CV</a>
       </div>
-    </div>
-</nav>
+    </li>
+  </ul>
+</section>
