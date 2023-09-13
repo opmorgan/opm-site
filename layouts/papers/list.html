@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  <!-- "{{ .Content }}" pulls from the markdown content of the corresponding _index.md -->
+  {{ .Content }}
+
+  <ul>
+    {{ range .Pages }}
+    <div class = "pub-short">
+      <li>
+        {{ .Title }}
+      </li>
+    </div>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}
