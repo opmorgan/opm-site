@@ -1,0 +1,47 @@
+---
+title: Neuropsychiatric symptoms as a reliable phenomenology of cerebellar ataxia
+date: '2021-01-01'
+draft: true
+publishDate: '2023-09-13T04:25:56.372508Z'
+authors:
+- Sharif I. Kronemer
+- Mitchell B. Slapik
+- Jessica R. Pietrowski
+- Michael J. Margron
+- Owen P. Morgan
+- Catherine C. Bakker
+- Liana S. Rosenthal
+- Chiadi U. Onyike
+- Cherie L. Marvel
+publication_types:
+- '2'
+abstract: While cerebellar ataxia (CA) is a neurodegenerative disease known for motor
+  impairment, changes in mood have also been reported. A full account of neuropsychiatric
+  symptomology in CA may guide improvements in treatment regimes, measure the presence
+  and severity of sub-clinical neuropsychiatric disturbance symptomology in CA, and
+  compare patient versus informant symptom recognition. Neuropsychiatric phenomena
+  were gathered from CA patients with genetic and unknown etiologies and their informants
+  (e.g., spouse or parent). Information was obtained from in-person interviews and
+  the Center for Epidemiologic Studies Depression Scale. Responses were converted
+  to the Neuropsychiatric Inventory-Questionnaire (NPI-Q) scores by consensus ratings.
+  Patient NPI-Q scores were evaluated for symptom prevalence and severity relative
+  to those obtained from healthy controls. Patient-informant NPI-Q score disagreements
+  were evaluated. In this cohort, 95% of patients presented with at least one neuropsychiatric
+  symptom and 51% of patients with three or more symptoms. The most common symptoms
+  were anxiety, depression, nighttime behaviors (e.g., interrupted sleep), irritability,
+  disinhibition, abnormal appetite, and agitation. The prevalence of these neuropsychiatric
+  symptoms was uniform across patients with genetic versus unknown etiologies. Patient
+  and informant symptom report disagreements reflected that patients noted sleep impairment
+  and depression, while informants noted irritability and agitation. Neuropsychiatric
+  disturbance is highly prevalent in patients with CA and contributes to the phenomenology
+  of CA, regardless of etiology. Clinicians should monitor psychiatric health in their
+  CA patients, considering that supplemental information from informants can help
+  gauge the impact on family members and caregivers.
+featured: false
+publication: ''
+doi: 10.1007/s12311-020-01195-7
+links:
+- name: URL
+  url: https://doi.org/10.1007/s12311-020-01195-7
+---
+
