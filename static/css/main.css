@@ -428,7 +428,7 @@ h1 {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 .pub-grid ul {
@@ -441,7 +441,7 @@ h1 {
   padding: 0;
   display: flex;
   flex-direction: row;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   margin-bottom: var(--v-padding);
   gap: 21px;
 }
