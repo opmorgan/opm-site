@@ -31,6 +31,7 @@
   --background-accent: #eeeae9;
   --line-gray: #999999;
   --text-black: #111111;
+  --text-hover-gray: #333333;
   --text-red: #A11212;
   --icon-red: #BC4A4A;
   --hover-red: rgb(179, 0, 0, .15);
@@ -55,8 +56,12 @@ a {
   text-decoration: none;
 }
 
-a p {
+a {
   color: var(--text-red);
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .content-grid {
@@ -126,8 +131,8 @@ a p {
 }
 
 .navbar a:hover {
-  color: var(--text-black);
-  text-decoration: none;
+  color: var(--text-hover-gray);
+  /* text-decoration: underline; */
 }
 
 
@@ -235,7 +240,7 @@ a p {
   }
 
   .menu__item:hover {
-    background: var(--hover-red);
+    /* background: var(--hover-red); */
   }
 }
 
@@ -268,10 +273,32 @@ a p {
   }
 
   .menu__item:hover {
-    background: var(--hover-red);
+    /* background: var(--hover-red); */
   }
 
 }
+
+
+/* CONTENT-GRID__FOOTER */
+.content-grid__footer {
+}
+
+.content-grid__footer__container {
+  border-top: 1px solid var(--line-gray);
+  background: var(--background-accent);
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-grid__footer__text {
+  margin 0;
+  padding 0;
+  line-height: 1rem;
+}
+
+
 
 /* CONTENT-GRID__MAIN */
 .content-grid__main {
@@ -311,6 +338,7 @@ a p {
   }
 }
 
+/* Homepage content */
 .content-grid__main p {
   line-height: 1.5rem;
   margin-top: 0rem;
@@ -376,27 +404,66 @@ a p {
   height: 22px;
 }
 
-.content-grid__main__text {
+.content-grid__main__text a {
+  color: var(--text-red)
 }
 
-/* CONTENT-GRID__FOOTER */
-.content-grid__footer {
+
+/* Headers */
+h1 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 22px;
+  font-weight: normal;
+  margin-bottom: var(--v-padding);
 }
 
-.content-grid__footer__container {
-  border-top: 1px solid var(--line-gray);
-  background: var(--background-accent);
-  height: 56px;
+
+/* Papers index */
+.pub-grid {
+  margin: 0;
+  padding: 0;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  border: 1px solid black;
 }
 
-.content-grid__footer__text {
-  margin 0;
-  padding 0;
-  line-height: 1rem;
+.pub-grid ul {
+  margin: 0;
+  padding: 0;
 }
 
+.pub-grid__content {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  margin-bottom: 1rem;
+  gap: 21px;
+}
 
+.pub-grid__content__left {
+  margin: 0;
+  padding: 0;
+}
+
+.pub-grid__content__left .pub__year {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+.pub-grid__content__right {
+  margin: 0;
+  padding: 0;
+}
+
+.pub-grid__content .pub__links li {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
 

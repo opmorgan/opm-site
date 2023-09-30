@@ -32,6 +32,7 @@
   --line-gray: #999999;
   --text-black: #111111;
   --text-hover-gray: #333333;
+  --text-light-gray: #777777;
   --text-red: #A11212;
   --icon-red: #BC4A4A;
   --hover-red: rgb(179, 0, 0, .15);
@@ -441,8 +442,14 @@ h1 {
   display: flex;
   flex-direction: row;
   border: 1px solid black;
-  margin-bottom: 1rem;
+  margin-bottom: var(--v-padding);
   gap: 21px;
+}
+
+.pub-grid__content p {
+  margin: 0;
+  padding: 0;
+  line-height: 1rem;
 }
 
 .pub-grid__content__left {
@@ -451,19 +458,47 @@ h1 {
 }
 
 .pub-grid__content__left .pub__year {
-  margin: 0;
-  padding: 0;
   font-size: 16px;
 }
 
-.pub-grid__content__right {
+.pub-grid__content__right .pub__title{
+  padding-bottom: .4rem;
+  font-size : 16px;
+}
+
+.pub-grid__content__right .pub__authors {
   margin: 0;
   padding: 0;
+  font-size: 12px;
+  padding-bottom: .4rem;
+}
+
+
+.pub-grid__content__right .pub__journal {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  color: var(--text-light-gray);
+  padding-bottom: .4rem;
+}
+
+.pub-grid__content .pub__links {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  gap: .4rem;
 }
 
 .pub-grid__content .pub__links li {
   margin: 0;
   padding: 0;
-  display: block;
+  /* display: flex; */
 }
 
+.pub-grid__content .pub__links li p{
+  margin: 0;
+  padding: 0;
+  display: block;
+  font-size: 14px;
+}

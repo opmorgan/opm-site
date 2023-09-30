@@ -7,12 +7,113 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://opmorgan.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publications</title>
+      <title>Frequency Asymmetries in Vision and Action</title>
+      <link>http://opmorgan.com/papers/morgan-frequency-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/morgan-frequency-2023/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>A multimodal neuroimaging study of brain abnormalities and clinical correlates in post treatment Lyme disease</title>
+      <link>http://opmorgan.com/papers/marvel-multimodal-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/marvel-multimodal-2022/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>Characterization of basal ganglia volume changes in the context of HIV and polysubstance use</title>
+      <link>http://opmorgan.com/papers/monick-characterization-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/monick-characterization-2022/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>Human visual consciousness involves large scale cortical and subcortical networks independent of task report and eye movement activity</title>
+      <link>http://opmorgan.com/papers/kronemer-human-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/kronemer-human-2022/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>Quality of life changes following the onset of cerebellar ataxia: Symptoms and concerns self-reported by ataxia patients and informants</title>
+      <link>http://opmorgan.com/papers/joyce-quality-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/joyce-quality-2022/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>Quantitative susceptibility mapping of basal ganglia iron is associated with cognitive and motor functions that distinguish spinocerebellar ataxia type 6 and type 3</title>
+      <link>http://opmorgan.com/papers/marvel-quantitative-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/marvel-quantitative-2022/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>The association between educational attainment and SCA 3 age of onset and disease course</title>
+      <link>http://opmorgan.com/papers/iannuzzelli-association-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/iannuzzelli-association-2022/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>Neuropsychiatric symptoms as a reliable phenomenology of cerebellar ataxia</title>
+      <link>http://opmorgan.com/papers/kronemer-neuropsychiatric-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/kronemer-neuropsychiatric-2021/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>The cerebellum and implicit sequencing: Evidence from cerebellar ataxia</title>
+      <link>http://opmorgan.com/papers/morgan-cerebellum-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/morgan-cerebellum-2021/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>How the motor system integrates with working memory</title>
+      <link>http://opmorgan.com/papers/marvel-how-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/marvel-how-2019/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>Visuospatial organization and recall in cerebellar ataxia</title>
+      <link>http://opmorgan.com/papers/slapik-visuospatial-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/papers/slapik-visuospatial-2019/</guid>
+      <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
       <link>http://opmorgan.com/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://opmorgan.com/pubs/</guid>
-      <description>Publications Publication 1 Publication 2 </description>
+      <description>Selected Publications Morgan, O. P., &amp;amp; Casasanto, D. (2023). Frequency Asymmetries in Vision and Action. Proceedings of the Annual Meeting of the Cognitive Science Society, 45. https://escholarship.org/uc/item/1cm96186
+Iannuzzelli, Katherine, Shi, Rosa, Carter, Reece, […], Morgan, Owen P., et al. 2022. “The association between educational attainment and SCA 3 age of onset and disease course.” In: Parkinsonism &amp;amp; Related Disorders, pp. 99–102. [doi] [pdf]
+Publication 1 Publication 2 </description>
     </item>
     
   </channel>

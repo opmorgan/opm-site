@@ -11,35 +11,42 @@
 
       <div class = "pub-grid__content__left">
         <div class = "pub__year">
-          {{ .Params.date.Format .Site.Params.pubDateFormat }}
+          <p>{{ .Params.date.Format .Site.Params.pubDateFormat }}</p>
         </div>
       </div> <!-- pub-grid__content__left -->
 
       <div class = "pub-grid__content__right">
         <div class = "pub__title">
-          {{ .Title }}
+          <p>
+          <!-- Every paper must have a pdf to display title -->
+          <!-- TODO: only set title as link if pdf link exists -->
+          {{ $title := .Params.Title }}
+          {{ range $link := .Params.Links }}
+          {{ if eq $link.name "pdf" . }}
+          <a href={{ $link.url }}>
+            {{ $title }}
+          </a>
+          {{ end }}
+          {{ end }}
+          </p>
         </div>
         <div class = "pub__authors">
-          <ul>
-            {{ range $author := .Params.Authors }}
-            <li>
-              {{ $author }}
-            </li>
-            {{ end }}
-          </ul>
+          <!-- TODO: bold my name -->
+          <p>{{ delimit .Params.Authors ", " }}</p>
         </div>
         <div class = "pub__journal">
-          {{ .Params.Publication }}
+          <p>{{ .Params.Publication }}</p>
         </div>
         <div class = "pub__links">
-          <ul>
-            {{ range $link := .Params.Links }}
-            <li>
-              {{ $link.name }}
-              {{ $link.url }}
-            </li>
-            {{ end }}
-          </ul>
+          {{ range $link := .Params.Links }}
+          <div>
+            <p>
+            <a href={{ $link.url }}>
+              [{{ $link.name }}]
+            </a>
+            </p>
+          </div>
+          {{ end }}
         </div>
       </div> <!-- pub-grid__content__right -->
 
