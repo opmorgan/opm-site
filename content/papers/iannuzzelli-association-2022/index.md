@@ -1,9 +1,10 @@
 ---
 title: The association between educational attainment and SCA 3 age of onset and disease
   course
-date: '2022-01-01'
-draft: true
-publishDate: '2023-09-13T04:25:56.514756Z'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Katherine Iannuzzelli
 - Rosa Shi
@@ -23,8 +24,27 @@ authors:
 - Ximin Li
 - Jiangxia Wang
 - Liana S. Rosenthal
+
+# Author notes (such as 'Equal Contribution')
+author_notes: []
+
+date: '2022-01-01'
+doi: 10.1016/j.parkreldis.2022.02.025
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2023-09-30T04:56:13.018751Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
 - '2'
+
+# Publication name and optional abbreviated publication name.
+publication: Parkinsonism & Related Disorders
+publication_short: ''
+
 abstract: 'Background: The number of trinucleotide CAG repeats is inversely correlated
   with the age at onset (AAO) of motor symptoms in individuals with Spinocerebellar
   Ataxia type 3 (SCA 3) and may be responsible for 50%–60% of the variability in AAO.
@@ -43,11 +63,46 @@ abstract: 'Background: The number of trinucleotide CAG repeats is inversely corr
   the AAO and SARA scores. Though our findings need to be confirmed with a larger
   cohort, our study suggests that level of education can have a strong influence on
   health outcomes in SCA 3 and possibly other groups of patients with ataxia.'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
 featured: false
-publication: ''
-doi: 10.1016/j.parkreldis.2022.02.025
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S135380202200058X
 ---
 
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

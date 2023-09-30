@@ -5,15 +5,48 @@
   </header>
   <!-- "{{ .Content }}" pulls from the markdown content of the corresponding _index.md -->
   {{ .Content }}
-
-  <ul>
+  <div class = "pub-grid">
     {{ range .Pages }}
-    <div class = "pub-short">
-      <li>
-        {{ .Title }}
-      </li>
-    </div>
+    <div class = "pub-grid__content">
+
+      <div class = "pub-grid__content__left">
+        <div class = "pub__year">
+          {{ .Params.date.Format .Site.Params.pubDateFormat }}
+        </div>
+      </div> <!-- pub-grid__content__left -->
+
+      <div class = "pub-grid__content__right">
+        <div class = "pub__title">
+          {{ .Title }}
+        </div>
+        <div class = "pub__authors">
+          <ul>
+            {{ range $author := .Params.Authors }}
+            <li>
+              {{ $author }}
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class = "pub__journal">
+          {{ .Params.Publication }}
+        </div>
+        <div class = "pub__links">
+          <ul>
+            {{ range $link := .Params.Links }}
+            <li>
+              {{ $link.name }}
+              {{ $link.url }}
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div> <!-- pub-grid__content__right -->
+
+    </div> <!-- pub-grid__content -->
+
     {{ end }}
-  </ul>
+  </div> <!-- pub-grid -->
+
 </main>
 {{ end }}

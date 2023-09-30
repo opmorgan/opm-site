@@ -8,3 +8,4 @@ lastmod = [':git', ':fileModTime']
 
 [params]
 name = "Owen Morgan"
+pubDateFormat = "2006"
