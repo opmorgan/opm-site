@@ -39,7 +39,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1oMJkT8as3GojL9Jf0mFSoncSZXWwXHAe/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,10 +67,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 links:
-- name: doi
+- name: URL
   url: https://escholarship.org/uc/item/1cm96186
-- name: pdf
-  url: https://drive.google.com/file/d/1oMJkT8as3GojL9Jf0mFSoncSZXWwXHAe/view?usp=sharing
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+{{< download "foo.pdf" >}}

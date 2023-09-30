@@ -18,15 +18,13 @@
       <div class = "pub-grid__content__right">
         <div class = "pub__title">
           <p>
-          <!-- Every paper must have a pdf to display title -->
-          <!-- TODO: only set title as link if pdf link exists -->
           {{ $title := .Params.Title }}
-          {{ range $link := .Params.Links }}
-          {{ if eq $link.name "pdf" . }}
-          <a href={{ $link.url }}>
+          {{ with $url_pdf := .Params.url_pdf }}
+            <a href={{ $url_pdf }}>
+              {{ $title }}
+            </a>
+          {{ else }}
             {{ $title }}
-          </a>
-          {{ end }}
           {{ end }}
           </p>
         </div>
@@ -38,15 +36,57 @@
           <p>{{ .Params.Publication }}</p>
         </div>
         <div class = "pub__links">
-          {{ range $link := .Params.Links }}
+
+          {{ with $doi := .Params.doi }}
           <div>
             <p>
-            <a href={{ $link.url }}>
-              [{{ $link.name }}]
+            <a href={{ printf "https://doi.org/%s" $doi }}>
+              [doi]
             </a>
             </p>
           </div>
           {{ end }}
+
+          {{ with $url := .Params.url_pdf }}
+          <div>
+            <p>
+            <a href={{ $url }}>
+              [pdf]
+            </a>
+            </p>
+          </div>
+          {{ end }}
+
+          {{ with $url := .Params.url_code }}
+          <div>
+            <p>
+            <a href={{ $url }}>
+              [data & code]
+            </a>
+            </p>
+          </div>
+          {{ end }}
+
+          {{ with $url := .Params.url_media }}
+          <div>
+            <p>
+            <a href={{ $url }}>
+              [media]
+            </a>
+            </p>
+          </div>
+          {{ end }}
+
+          {{ with $url := .Params.url_task }}
+          <div>
+            <p>
+            <a href={{ $url }}>
+              [task script]
+            </a>
+            </p>
+          </div>
+          {{ end }}
+
         </div>
       </div> <!-- pub-grid__content__right -->
 

@@ -461,16 +461,41 @@ h1 {
   font-size: 16px;
 }
 
+.pub-grid__content__left .pub__year p {
+  line-height: 1.3rem;
+}
+
 .pub-grid__content__right .pub__title{
-  padding-bottom: .4rem;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: .3rem;
   font-size : 16px;
+}
+
+.pub-grid__content__right .pub__title p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.3rem;
+}
+
+
+.pub-grid__content__right .pub__title a:link {
+  color: var(--text-black);
+}
+
+.pub-grid__content__right .pub__title a:visited {
+  color: var(--text-black);
+}
+
+.pub-grid__content__right .pub__title a:hover {
+  color: var(--text-black);
 }
 
 .pub-grid__content__right .pub__authors {
   margin: 0;
   padding: 0;
   font-size: 12px;
-  padding-bottom: .4rem;
+  padding-bottom: .3rem;
 }
 
 
@@ -479,7 +504,7 @@ h1 {
   padding: 0;
   font-size: 12px;
   color: var(--text-light-gray);
-  padding-bottom: .4rem;
+  padding-bottom: .3rem;
 }
 
 .pub-grid__content .pub__links {
