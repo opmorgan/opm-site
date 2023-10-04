@@ -10,7 +10,7 @@ authors:
 - Rosa Shi
 - Reece Carter
 - Rachel Huynh
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Sheng-Han Kuo
 - Jee Bang
 - Kelly A. Mills

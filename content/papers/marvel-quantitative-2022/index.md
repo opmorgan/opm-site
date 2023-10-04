@@ -10,7 +10,7 @@ authors:
 - Cherie L. Marvel
 - Lin Chen
 - Michelle R. Joyce
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Katherine G. Iannuzzelli
 - Stephen M. LaConte
 - Jonathan M. Lisinski

@@ -7,7 +7,7 @@ title: Visuospatial organization and recall in cerebellar ataxia
 authors:
 - Mitchell B. Slapik
 - Sharif I. Kronemer
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Ryan Bloes
 - Seth Lieberman
 - Jordan Mandel

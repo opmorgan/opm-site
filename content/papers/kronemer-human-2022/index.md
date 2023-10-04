@@ -23,7 +23,7 @@ authors:
 - Akshar Agarwal
 - Erik Saberski
 - Syed Mohammad Adil Wafa
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Jia Wu
 - Kate L. Christison-Lagay
 - Nicholas Hasulak

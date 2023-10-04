@@ -5,7 +5,7 @@ title: 'The cerebellum and implicit sequencing: Evidence from cerebellar ataxia'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Mitchell B. Slapik
 - Katherine G. Iannuzzelli
 - Stephen M. LaConte

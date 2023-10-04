@@ -6,7 +6,7 @@ title: How the motor system integrates with working memory
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Cherie L. Marvel
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Sharif I. Kronemer
 
 # Author notes (such as 'Equal Contribution')

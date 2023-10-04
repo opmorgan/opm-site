@@ -10,7 +10,7 @@ authors:
 - Michelle R. Joyce
 - Natasha Chugh
 - Jason A. Creighton
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Eric C. Strain
 - Cherie L. Marvel
 

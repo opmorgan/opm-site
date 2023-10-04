@@ -11,7 +11,7 @@ authors:
 - Deeya Bhattacharya
 - Alison W. Rebman
 - Arnold Bakker
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Jason A. Creighton
 - Erica A. Kozero
 - Arun Venkatesan

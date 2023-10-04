@@ -458,7 +458,8 @@ h1 {
 }
 
 .pub-grid__content__left .pub__year {
-  font-size: 16px;
+  font-size: 14px;
+  color: var(--text-light-gray);
 }
 
 .pub-grid__content__left .pub__year p {

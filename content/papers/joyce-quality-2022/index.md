@@ -11,7 +11,7 @@ authors:
 - Sharif I. Kronemer
 - Michael J. Margron
 - Mitchell B. Slapik
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Liana S. Rosenthal
 - Chiadi U. Onyike
 - Cherie L. Marvel

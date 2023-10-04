@@ -5,7 +5,7 @@ title: Frequency Asymmetries in Vision and Action
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Daniel Casasanto
 
 # Author notes (such as 'Equal Contribution')

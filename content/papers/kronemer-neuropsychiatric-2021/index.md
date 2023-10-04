@@ -9,7 +9,7 @@ authors:
 - Mitchell B. Slapik
 - Jessica R. Pietrowski
 - Michael J. Margron
-- Owen P. Morgan
+- <strong>Owen Morgan</strong>
 - Catherine C. Bakker
 - Liana S. Rosenthal
 - Chiadi U. Onyike
