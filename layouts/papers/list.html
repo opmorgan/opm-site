@@ -5,8 +5,12 @@
   </header>
   <!-- "{{ .Content }}" pulls from the markdown content of the corresponding _index.md -->
   {{ .Content }}
+
   <div class = "pub-grid">
     {{ range .Pages }}
+
+          {{ $rel_url := .File.Dir }}
+
     <div class = "pub-grid__content">
 
       <div class = "pub-grid__content__left">
@@ -19,12 +23,14 @@
         <div class = "pub__title">
           <p>
           {{ $title := .Params.Title }}
-          {{ with $url_pdf := .Params.url_pdf }}
-            <a href={{ $url_pdf }}>
-              {{ $title }}
-            </a>
-          {{ else }}
+          {{ $permalink := .Permalink }}
+          {{ with $pdf_name := .Params.pdf_name }}
+          {{ $pdf_url := path.Join $rel_url $pdf_name }}
+          <a href={{ absURL $pdf_url }}>
             {{ $title }}
+          </a>
+          {{ else }}
+          {{ $title }}
           {{ end }}
           </p>
         </div>
@@ -47,12 +53,13 @@
           </div>
           {{ end }}
 
-          {{ with $url := .Params.url_pdf }}
+          {{ with $pdf_name := .Params.pdf_name }}
+          {{ $pdf_url := path.Join $rel_url $pdf_name }}
           <div>
             <p>
-            <a href={{ $url }}>
+          <a href={{ absURL $pdf_url }}>
               [pdf]
-            </a>
+          </a>
             </p>
           </div>
           {{ end }}
