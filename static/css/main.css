@@ -52,6 +52,10 @@ body {
   padding: 0;
 }
 
+strong {
+    font-weight: 600;
+}
+
 /* Text links */
 a {
   text-decoration: none;
@@ -99,7 +103,7 @@ a:hover {
 
 
 .navbutton__home {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 #menu-toggle {
@@ -132,10 +136,16 @@ a:hover {
 }
 
 .navbar a:hover {
-  color: var(--text-hover-gray);
-  /* text-decoration: underline; */
+  /* color: var(--text-hover-gray); */
+  text-decoration: none;
+  color: var(--text-red);
 }
 
+
+.navbutton__home a:hover {
+  color: var(--text-hover-gray);
+  text-decoration: none;
+}
 
 /* Define style for narrow screens (Hamburger menu) (600px) */
 @media (max-width: 600px) {
@@ -361,6 +371,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 8px;
+  max-width: 190px;
 }
 
 .portrait-email {
