@@ -75,8 +75,6 @@ a:hover {
   flex-direction: column;
   min-height: 100vh;
   gap: var(--v-padding);
-  /* Allow scrollbar to overlay (keeping button position fixed) */
-  width: 100vw;
 }
 
 /* CONTENT-GRID__HEADER */
