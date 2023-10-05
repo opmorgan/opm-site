@@ -102,6 +102,10 @@ a:hover {
   max-width: calc(var(--max-width) + var(--menu-item-padding)*2);
 }
 
+.navbutton__home {
+  font-weight: 500;
+}
+
 #menu-toggle {
   display: none;
 }
