@@ -73,6 +73,8 @@ tags: []
 featured: false
 
 # Links
+pdf_name: 'marvel-multimodal-2022.pdf'
+url_press: 'https://perma.cc/WLH3-M3UN'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

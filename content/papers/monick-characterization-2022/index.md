@@ -64,6 +64,7 @@ tags: []
 featured: false
 
 # Links
+pdf_name: 'monick-characterization-2022.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

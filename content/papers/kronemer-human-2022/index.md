@@ -79,6 +79,8 @@ tags: []
 featured: false
 
 # Links
+pdf_name: 'kronemer-human-2022.pdf'
+url_press: 'https://perma.cc/L6RY-SW43'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

@@ -72,6 +72,7 @@ tags:
 featured: false
 
 # Links
+pdf_name: "slapik-visuospatial-2019.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

@@ -43,6 +43,16 @@
         </div>
         <div class = "pub__links">
 
+          {{ with $url := .Params.url_perma }}
+          <div>
+            <p>
+            <a href={{ $url }}>
+              [doi]
+            </a>
+            </p>
+          </div>
+          {{ end }}
+
           {{ with $doi := .Params.doi }}
           <div>
             <p>
@@ -74,11 +84,11 @@
           </div>
           {{ end }}
 
-          {{ with $url := .Params.url_media }}
+          {{ with $url := .Params.url_press }}
           <div>
             <p>
             <a href={{ $url }}>
-              [media]
+              [press]
             </a>
             </p>
           </div>

@@ -69,6 +69,8 @@ tags: []
 featured: false
 
 # Links
+pdf_name: 'morgan-cerebellum-2021.pdf'
+url_task: 'https://github.com/opmorgan/py-seqtest'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

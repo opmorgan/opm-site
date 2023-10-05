@@ -1,6 +1,5 @@
 ---
-title: The association between educational attainment and SCA 3 age of onset and disease
-  course
+title: 'The association between educational attainment and SCA 3 age of onset and disease course'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -73,6 +72,7 @@ tags: []
 featured: false
 
 # Links
+pdf_name: 'iannuzzelli-association-2022.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

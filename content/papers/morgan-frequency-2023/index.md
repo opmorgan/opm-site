@@ -41,13 +41,14 @@ featured: false
 # Links
 pdf_name: "morgan-frequency-2023.pdf"
 url_pdf: 'https://drive.google.com/file/d/1oMJkT8as3GojL9Jf0mFSoncSZXWwXHAe/view?usp=sharing'
-url_code: ''
+url_code: 'https://osf.io/fpk6m/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+url_perma: 'https://escholarship.org/uc/item/1cm96186'
 
 # Custom links (uncomment lines below)
 # links:

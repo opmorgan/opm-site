@@ -64,6 +64,7 @@ tags:
 featured: false
 
 # Links
+pdf_name: 'marvel-how-2019.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

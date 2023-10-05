@@ -65,6 +65,7 @@ tags: []
 featured: false
 
 # Links
+pdf_name: 'joyce-quality-2022.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''

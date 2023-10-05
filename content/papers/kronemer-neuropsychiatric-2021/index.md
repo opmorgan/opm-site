@@ -67,6 +67,7 @@ tags: []
 featured: false
 
 # Links
+pdf_name: 'kronemer-neuropsychiatric-2021.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
