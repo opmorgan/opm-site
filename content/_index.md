@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Owen Morgan
 ---
 
 Hi! I’m Owen. I study how action shapes perception, emotion, and cognition, using brain imaging and behavioral methods.
