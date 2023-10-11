@@ -15,7 +15,7 @@ First, create a .bib file with publication(s) in bitex format (e.g., by exportin
 
 Activate python venv: ```source env/bin/activate```
 
-Run academic ([bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown): ```academic import --bibtex data/[new-pubs].bib --publication-dir content/papers```
+Run academic ([bibtex-to-markdown](https://github.com/wowchemy/bibtex-to-markdown)): ```academic import --bibtex data/[new-pubs].bib --publication-dir content/papers```
 
 Edit generated .md files in ```content/papers/```.
 
