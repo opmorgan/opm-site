@@ -2,9 +2,9 @@ Source code for [opmorgan.com](https://opmorgan.com)
 
 ## Dependencies
 ```hugo``` (v0.112.3+extended or later)
-
+<br>
 ```python 3```
-
+<br>
 ```bibtex-to-markdown``` ([https://github.com/opmorgan/bibtex-to-markdown](https://github.com/opmorgan/bibtex-to-markdown))
 
 ## To set up development environment
