@@ -44,7 +44,7 @@ In addition to `pdf_name`, you can add these optional fields to the generated .m
 - `url_task: ''` (link called "task script")
 - `url_perma: ''` (permanent link to paper, useful if paper has no DOI; nonetheless, link will be called "doi").
 
-The rendering of these fields is controled in `layouts/papers/list.html`.
+The rendering of these fields is controlled in `layouts/papers/list.html`.
 
 
 
