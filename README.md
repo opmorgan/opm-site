@@ -18,7 +18,7 @@ hugo server -D
 
 ## To add publications
 
-### Generate publication content for papers/ page
+### Generate publication content for papers index page ([sitename.com]/papers)
 First, create a .bib file with publication(s) in bitex format (e.g., by exporting to biblatex from Zotero). Place the source .bib file in ```data/```.
 
 Run academic (from [bibtex-to-markdown](https://github.com/opmorgan/bibtex-to-markdown)): 
