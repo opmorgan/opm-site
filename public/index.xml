@@ -105,16 +105,5 @@
       <description>Add the full text or supplementary notes for the publication here using Markdown formatting.</description>
     </item>
     
-    <item>
-      <title>Papers</title>
-      <link>http://opmorgan.com/pubs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://opmorgan.com/pubs/</guid>
-      <description>Selected Publications Morgan, O. P., &amp;amp; Casasanto, D. (2023). Frequency Asymmetries in Vision and Action. Proceedings of the Annual Meeting of the Cognitive Science Society, 45. https://escholarship.org/uc/item/1cm96186
-Iannuzzelli, Katherine, Shi, Rosa, Carter, Reece, […], Morgan, Owen P., et al. 2022. “The association between educational attainment and SCA 3 age of onset and disease course.” In: Parkinsonism &amp;amp; Related Disorders, pp. 99–102. [doi] [pdf]
-Publication 1 Publication 2 </description>
-    </item>
-    
   </channel>
 </rss>
