@@ -380,7 +380,7 @@ a:hover {
   align-items: center;
   column-gap: 8px;
   /* border: 1px solid black; */
-  margin-bottom: 8px;
+  margin-bottom: 12px;
 }
 
 .portrait-email-text p {
@@ -408,13 +408,76 @@ a:hover {
   height: 30px;
 }
 
+
 .portrait-button-links .gs-button-link img {
-  height: 22px;
+  height: 20px;
 }
 
 .portrait-button-links .gh-button-link img {
   height: 22px;
 }
+
+.portrait-button-links .orcid-button-link img {
+  height: 24px;
+}
+
+  /*  Rollover image styles  */
+  .gs-button-link {
+    position: relative;
+    max-width: 100%;
+  }
+  .gs-button-link img.gs-image-hover {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity .1s;
+  }
+  .gs-button-link:hover img.gs-image-hover {
+    opacity: 1;
+  }
+
+
+  .gh-button-link {
+    position: relative;
+    max-width: 100%;
+  }
+  .gh-button-link img.gh-image-hover {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity .1s;
+  }
+  .gh-button-link:hover img.gh-image-hover {
+    opacity: 1;
+  }
+
+
+  .orcid-button-link {
+    position: relative;
+    max-width: 100%;
+  }
+  .orcid-button-link img.orcid-image-hover {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity .1s;
+  }
+  .orcid-button-link:hover img.orcid-image-hover {
+    opacity: 1;
+  }
+
 
 .content-grid__main__text a {
   color: var(--text-red)
