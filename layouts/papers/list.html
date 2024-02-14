@@ -36,7 +36,7 @@
         </div>
         <div class = "pub__authors">
           <!-- TODO: bold my name -->
-          <p>{{ delimit .Params.Authors ", " }}</p>
+          <p>{{ delimit .Params.Authors ", " | safeHTML}}</p>
         </div>
         <div class = "pub__journal">
           <p>{{ .Params.Publication }}</p>
