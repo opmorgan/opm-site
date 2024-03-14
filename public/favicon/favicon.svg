@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="20.264584mm"
+   height="20.264584mm"
+   viewBox="0 0 20.264584 20.264584"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="favicon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.739478"
-     inkscape:cx="230.33585"
-     inkscape:cy="438.95224"
-     inkscape:window-width="1362"
+     inkscape:zoom="1.369739"
+     inkscape:cx="70.816411"
+     inkscape:cy="48.184362"
+     inkscape:window-width="543"
      inkscape:window-height="734"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-x="2099"
+     inkscape:window-y="286"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -38,9 +38,10 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-57.203257,-103.47284)">
     <circle
-       style="opacity:1;fill:#f3efee;fill-opacity:1;stroke-width:0.26458333;stroke-dasharray:none;stroke:#111111;stroke-opacity:1"
+       style="opacity:1;fill:#f3efee;fill-opacity:1;stroke:#111111;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
        id="path1480"
        cx="67.335548"
        cy="113.60513"
