@@ -6,7 +6,7 @@ title: 'Frequency asymmetries in vision: The action asymmetry hypothesis'
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Owen Morgan
+- <strong>Owen Morgan</strong>
 - Daniel Casasanto
 
 # Author notes (such as 'Equal Contribution')
@@ -49,8 +49,9 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+# Links
+pdf_name: "morgan-frequency-2025.pdf"
+url_code: 'https://osf.io/mc5gy/'
 url_dataset: ''
 url_poster: ''
 url_project: ''

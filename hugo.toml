@@ -4,7 +4,7 @@ title = 'Owen Morgan'
 enableGitInfo = true
 
 [frontmatter]
-lastmod = [':git', ':fileModTime']
+lastmod = ['lastmod',':git', ':fileModTime']
 
 [params]
 name = "Owen Morgan"

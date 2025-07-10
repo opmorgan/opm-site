@@ -1,5 +1,5 @@
 ---
-title: Frequency Asymmetries in Vision and Action
+title: Frequency asymmetries in vision and action
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -6,7 +6,7 @@ title: 'Handedness and creativity: Facts and fictions'
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Owen Morgan
+- <strong>Owen Morgan</strong>
 - Siyi Zhao
 - Daniel Casasanto
 
@@ -17,7 +17,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-07-10T18:11:03.534950Z'
+publishDate: '2025-06-10T18:11:03.534950Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -54,8 +54,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+pdf_name: "morgan-handedness-2025.pdf"
+url_code: 'https://osf.io/xhpjy/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
