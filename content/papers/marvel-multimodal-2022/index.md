@@ -8,7 +8,7 @@ title: A multimodal neuroimaging study of brain abnormalities and clinical corre
 authors:
 - Cherie L. Marvel
 - Kylie H. Alm
-- Deeya Bhattacharya
+- <sup>†</sup>Deeya Bhattacharya
 - Alison W. Rebman
 - Arnold Bakker
 - <strong>Owen Morgan</strong>
