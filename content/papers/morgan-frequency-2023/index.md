@@ -47,7 +47,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1_jI25wWOnaydotE2lkBPTe3-UVlKWIK4/view?usp=share_link'
 url_perma: 'https://escholarship.org/uc/item/1cm96186'
 
 # Custom links (uncomment lines below)

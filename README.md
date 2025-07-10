@@ -21,6 +21,7 @@ hugo server -D
 ### Create and activate python environment (tested with python 3.13)
 
 ```python3 -m venv [env]```
+
 ```source env2/bin/activate```
 
 ### Install custom fork of academic-file-converter (formerly "hugo-academic-cli")
@@ -36,6 +37,11 @@ Then, convert the .bib entries to .md format, so that they can be rendered with 
 
 ```
 academic import --bibtex data/[new-pub(s)].bib --publication-dir content/papers
+```
+
+For example: 
+```
+academic import --bibtex data/pubs-journal.bib --publication-dir content/papers
 ```
 
 This will generate .md files with publication info in `content/papers/[generated-pub-title]/[generated-pub-title].md`.

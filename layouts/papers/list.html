@@ -104,6 +104,16 @@
           </div>
           {{ end }}
 
+          {{ with $url := .Params.url_video }}
+          <div>
+            <p>
+            <a href={{ $url }}>
+              [video]
+            </a>
+            </p>
+          </div>
+          {{ end }}
+
         </div>
       </div> <!-- pub-grid__content__right -->
 
