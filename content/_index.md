@@ -1,5 +1,6 @@
 ---
 title: Owen Morgan
+lastmod: 2025-07-10
 ---
 
 Hi! I’m Owen. I am a researcher interested in how psychology and neuroscience methods can give purchase on philosophical questions about perception, consciousness, and embodiment. In my PhD research, I study how action shapes perception, emotion, and cognition, using brain imaging and behavioral methods.

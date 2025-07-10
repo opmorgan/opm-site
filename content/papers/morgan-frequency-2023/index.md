@@ -1,5 +1,5 @@
 ---
-title: Frequency Asymmetries in Vision and Action
+title: Frequency asymmetries in vision and action
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -47,7 +47,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1_jI25wWOnaydotE2lkBPTe3-UVlKWIK4/view?usp=share_link'
 url_perma: 'https://escholarship.org/uc/item/1cm96186'
 
 # Custom links (uncomment lines below)
