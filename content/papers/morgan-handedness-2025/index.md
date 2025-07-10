@@ -56,6 +56,7 @@ featured: false
 # Links
 pdf_name: "morgan-handedness-2025.pdf"
 url_code: 'https://osf.io/xhpjy/'
+url_press: 'https://perma.cc/R8A9-KT6U'
 url_dataset: ''
 url_poster: ''
 url_project: ''
