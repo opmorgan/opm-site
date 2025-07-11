@@ -298,17 +298,28 @@ a:hover {
   border-top: 1px solid var(--line-gray);
   background: var(--background-accent);
   height: 56px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.content-grid__footer__flex {
   display: flex;
-  justify-content: center;
+  flex-direction: row;
   align-items: center;
+  justify-content: space-between;
+  height: 56px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--max-width);
 }
 
 .content-grid__footer__text {
-  margin 0;
-  padding 0;
+  margin: 0;
+  padding: 0px;
   line-height: 1rem;
   color: var(--text-light-gray);
 }
+
 
 
 
