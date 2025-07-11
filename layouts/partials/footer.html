@@ -1,12 +1,28 @@
 {{ with .Params.hide_footer }}
- <!-- No footer here! -->
+<!-- No footer here! -->
 {{ else }}
 <footer>
-        <div class="content-grid__footer__container">
-          <div class="content-grid__footer__text">
-            <!-- <p>Last updated {{ .Lastmod.Format "January 2, 2006" }} | <a href="https://github.com/opmorgan/opm-site/tree/trunk">Source code</p> -->
-            <p>Last updated {{ .Lastmod.Format "January 2006" }}</p>
-          </div>
-        </div>
+  <div class="content-grid__footer__container">
+
+    <div class="content-grid__footer__flex">
+
+      <div class="content-grid__footer__text">
+        <!-- <p>Last updated {{ .Lastmod.Format "January 2006" }} | <a href="https://github.com/opmorgan/opm-site">Source code </a></p> -->
+        <!-- <p>Last updated {{ .Lastmod.Format "January 2006" }} </p> -->
+      </div>
+
+      <div class="content-grid__footer__text">
+        <p>Last updated {{ .Lastmod.Format "January 2006" }} | <a href="https://github.com/opmorgan/opm-site">Source code </a></p>
+        <!-- <p>Made with Hugo | <a href="https://github.com/opmorgan/opm-site">Source code </a></p> -->
+        <!-- <p><a href="https://github.com/opmorgan/opm-site">Source code </a></p> -->
+      </div>
+
+
+
+    </div>
+
+  </div>
+
+  </div>
 </footer>
 {{ end }}

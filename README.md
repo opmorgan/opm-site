@@ -5,7 +5,7 @@ Source code for [opmorgan.com](https://opmorgan.com)
 <br>
 ```python 3```
 <br>
-```bibtex-to-markdown``` ([https://github.com/opmorgan/bibtex-to-markdown](https://github.com/opmorgan/bibtex-to-markdown))
+```academic-file-converter``` ([https://github.com/opmorgan/academic-file-converter](https://github.com/opmorgan/academic-file-converter))
 
 ## To set up development environment
 
