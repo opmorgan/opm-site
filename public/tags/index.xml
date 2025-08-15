@@ -2,116 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Owen Morgan</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://opmorgan.com/tags/</link>
     <description>Recent content in Tags on Owen Morgan</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2023 00:38:28 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://opmorgan.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ataxia</title>
-      <link>http://localhost:1313/tags/ataxia/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ataxia/</guid>
+      <link>http://opmorgan.com/tags/ataxia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/ataxia/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Basal Ganglia</title>
-      <link>http://localhost:1313/tags/basal-ganglia/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/basal-ganglia/</guid>
+      <title>Basal ganglia</title>
+      <link>http://opmorgan.com/tags/basal-ganglia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/basal-ganglia/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Cerebellum</title>
-      <link>http://localhost:1313/tags/cerebellum/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cerebellum/</guid>
+      <link>http://opmorgan.com/tags/cerebellum/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/cerebellum/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Cognition</title>
-      <link>http://localhost:1313/tags/cognition/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cognition/</guid>
+      <link>http://opmorgan.com/tags/cognition/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/cognition/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>FMRI</title>
-      <link>http://localhost:1313/tags/fmri/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fmri/</guid>
+      <link>http://opmorgan.com/tags/fmri/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/fmri/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Memory</title>
-      <link>http://localhost:1313/tags/memory/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/memory/</guid>
+      <link>http://opmorgan.com/tags/memory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/memory/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Motor</title>
-      <link>http://localhost:1313/tags/motor/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/motor/</guid>
+      <link>http://opmorgan.com/tags/motor/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/motor/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Motor Trace</title>
-      <link>http://localhost:1313/tags/motor-trace/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/motor-trace/</guid>
+      <title>Motor trace</title>
+      <link>http://opmorgan.com/tags/motor-trace/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/motor-trace/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Movement Disorders</title>
-      <link>http://localhost:1313/tags/movement-disorders/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/movement-disorders/</guid>
+      <title>Movement disorders</title>
+      <link>http://opmorgan.com/tags/movement-disorders/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/movement-disorders/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Organization</title>
-      <link>http://localhost:1313/tags/organization/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/organization/</guid>
+      <link>http://opmorgan.com/tags/organization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/organization/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Premotor Cortex</title>
-      <link>http://localhost:1313/tags/premotor-cortex/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/premotor-cortex/</guid>
+      <title>Premotor cortex</title>
+      <link>http://opmorgan.com/tags/premotor-cortex/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/premotor-cortex/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Sternberg</title>
-      <link>http://localhost:1313/tags/sternberg/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sternberg/</guid>
+      <link>http://opmorgan.com/tags/sternberg/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/sternberg/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Supplementary Motor Area</title>
-      <link>http://localhost:1313/tags/supplementary-motor-area/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/supplementary-motor-area/</guid>
+      <title>Supplementary motor area</title>
+      <link>http://opmorgan.com/tags/supplementary-motor-area/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/supplementary-motor-area/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Visuospatial</title>
-      <link>http://localhost:1313/tags/visuospatial/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/visuospatial/</guid>
+      <link>http://opmorgan.com/tags/visuospatial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/visuospatial/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Working Memory</title>
-      <link>http://localhost:1313/tags/working-memory/</link>
-      <pubDate>Sat, 30 Sep 2023 04:56:12 +0000</pubDate>
-      <guid>http://localhost:1313/tags/working-memory/</guid>
+      <title>Working memory</title>
+      <link>http://opmorgan.com/tags/working-memory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://opmorgan.com/tags/working-memory/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
