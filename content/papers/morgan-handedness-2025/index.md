@@ -3,7 +3,7 @@ title: 'Handedness and creativity: Facts and fictions'
 
 # Authors
 # A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`),
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - <strong>Owen Morgan</strong>
@@ -56,7 +56,7 @@ featured: false
 # Links
 pdf_name: "morgan-handedness-2025.pdf"
 url_code: 'https://osf.io/xhpjy/'
-url_press: 'https://perma.cc/R8A9-KT6U'
+url_press: 'https://news.cornell.edu/stories/2025/06/why-are-lefties-more-creative-turns-out-theyre-not' #'https://perma.cc/R8A9-KT6U'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -3,7 +3,7 @@ title: 'Frequency asymmetries in vision: The action asymmetry hypothesis'
 
 # Authors
 # A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`),
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - <strong>Owen Morgan</strong>
@@ -52,6 +52,7 @@ featured: false
 # Links
 pdf_name: "morgan-frequency-2025.pdf"
 url_code: 'https://osf.io/mc5gy/'
+url_press: 'https://news.cornell.edu/stories/2025/08/daily-actions-shape-how-righties-lefties-process-visual-input'
 url_dataset: ''
 url_poster: ''
 url_project: ''
