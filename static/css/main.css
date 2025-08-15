@@ -411,7 +411,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  column-gap: 16px;
+  column-gap: 10px;
 }
 
 .portrait-button-links img {
@@ -427,8 +427,12 @@ a:hover {
   height: 22px;
 }
 
+.portrait-button-links .li-button-link img {
+  height: 20px;
+}
+
 .portrait-button-links .orcid-button-link img {
-  height: 24px;
+  height: 22px;
 }
 
   /*  Rollover image styles  */
@@ -466,6 +470,26 @@ a:hover {
     transition: opacity .1s;
   }
   .gh-button-link:hover img.gh-image-hover {
+    opacity: 1;
+  }
+
+
+  .li-button-link {
+    position: relative;
+    max-width: 100%;
+  }
+  .li-button-link img.li-image-hover {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity .1s;
+  }
+
+  .li-button-link:hover img.li-image-hover {
     opacity: 1;
   }
 
