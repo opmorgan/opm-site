@@ -59,7 +59,7 @@ featured: false
 # Links
 pdf_name: "karpel-replication-2025.pdf"
 url_pdf: ''
-url_code: ''
+url_code: 'https://osf.io/jwhab'
 url_dataset: ''
 url_poster: ''
 url_project: ''
