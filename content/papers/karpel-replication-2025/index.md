@@ -66,6 +66,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+url_perma: "https://escholarship.org/uc/item/62n3j3jn"
 
 # Custom links (uncomment lines below)
 # links:
