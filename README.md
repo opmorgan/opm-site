@@ -7,9 +7,15 @@ Source code for [opmorgan.com](https://opmorgan.com)
 <br>
 ```academic-file-converter``` ([https://github.com/opmorgan/academic-file-converter](https://github.com/opmorgan/academic-file-converter))
 
+## To rebuild site after making changes
+
+```
+hugo
+```
+
 ## To set up development environment
 
-Build and run the server: 
+Build and run the server:
 
 ```
 hugo server -D
@@ -39,7 +45,7 @@ Then, convert the .bib entries to .md format, so that they can be rendered with 
 academic import --bibtex data/[new-pub(s)].bib --publication-dir content/papers
 ```
 
-For example: 
+For example:
 ```
 academic import --bibtex data/pubs-journal.bib --publication-dir content/papers
 ```
